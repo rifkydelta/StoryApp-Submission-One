@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="password_length">Password tidak boleh kurang dari 8 karakter!</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Langsung koding aja!</string>
+    <string name="title_welcome_page">Selamat Datang di Bangkit Story App!</string>
+    <string name="title_register_page">Lengkapi data di bawah ini</string>
+    <string name="message_login_page">Masukkan data Anda terlebih dahulu</string>
+    <string name="title_register">Daftar</string>
+    <string name="title_login_page">Selamat Datang di Bangkit Story App</string>
+    <string name="title_login">Formulir Masuk</string>
+    <string name="email">Email</string>
+    <string name="email_validation">Alamat email Anda tidak valid!</string>
+    <string name="password">Kata Sandi</string>
+    <string name="required_field">Kolom ini tidak boleh kosong!</string>
+    <string name="name">Nama</string>
+    <string name="username">Halo, %1$s</string>
+    <string name="logout">Keluar</string>
+    <string name="input_image">Silakan masukkan file gambar terlebih dahulu!</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="story_detail">Detail Cerita</string>
+    <string name="title_add_story">Tambah Cerita</string>
+    <string name="take_picture">Kamera</string>
+    <string name="open_file">Galeri</string>
+    <string name="desc">Keterangan Cerita</string>
+    <string name="upload_picture">Unggah Cerita</string>
+    <string name="story">Cerita</string>
+    <string name="retry">Segarkan</string>
+    <string name="language">Ganti Bahasa</string>
+    <string name="login_sucess">Anda berhasil login. Sudah tidak sabar untuk belajar ya?</string>
+    <string name="next">Lanjutkan</string>
+</resources>
